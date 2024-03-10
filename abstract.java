@@ -1,0 +1,5 @@
+abstract class a
+{
+abstract public void demo();
+}
+ 
